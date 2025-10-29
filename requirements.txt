@@ -46,7 +46,7 @@ fastapi==0.94.0
 ffmpy==0.5.0
 filelock==3.18.0
 filterpy==1.4.5
-Flask==3.1.1
+Flask
 flatbuffers==25.2.10
 fonttools==4.56.0
 frozenlist==1.5.0
@@ -60,7 +60,7 @@ google-api-core==2.28.0
 google-api-python-client==2.185.0
 google-auth==2.41.1
 google-auth-httplib2==0.2.0
-google-generativeai==0.8.5
+google-generativeai
 googleapis-common-protos==1.71.0
 gradio==3.41.2
 gradio_client==0.5.0
@@ -148,9 +148,9 @@ pyreadline3==3.5.4
 pyserial==3.5
 PySocks==1.7.1
 python-dateutil==2.9.0.post0
-python-dotenv==1.2.1
+python-dotenv
 python-multipart==0.0.20
-python-telegram-bot==22.5
+python-telegram-bot
 pytorch-lightning==1.9.4
 pytz==2025.1
 PyWavelets==1.8.0
@@ -210,11 +210,9 @@ z3-solver==4.15.3.0
 zipp==3.21.0
 zstandard==0.24.0
 
-Flask==3.0.0
-python-telegram-bot==20.8
-google-generativeai==0.6.0
-python-dotenv==1.0.1
-gunicorn==21.2.0
+gunicorn
+
+
 
 
 
