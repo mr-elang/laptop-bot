@@ -165,7 +165,7 @@ ROPGadget==7.6
 rpds-py==0.23.1
 rpyc==6.0.2
 rsa==4.9.1
-RsaCtfTool @ file:///C:/Users/LENOVO/RsaCtfTool
+RsaCtfTool
 safetensors==0.4.2
 scikit-image==0.21.0
 scipy==1.15.2
@@ -211,6 +211,7 @@ zipp==3.21.0
 zstandard==0.24.0
 
 gunicorn
+
 
 
 
