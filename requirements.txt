@@ -216,3 +216,5 @@ google-generativeai==0.6.0
 python-dotenv==1.0.1
 gunicorn==21.2.0
 
+
+
